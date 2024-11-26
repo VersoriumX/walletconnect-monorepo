@@ -15,7 +15,7 @@
     "dapp"
   ],
   "author": "WalletConnect, Inc. <walletconnect.com>",
-  "homepage": "https://github.com/walletconnect/walletconnect-monorepo/",
+  "homepage": "https://github.com/VersoriumX/walletconnect/walletconnect-monorepo/",
   "license": "Apache-2.0",
   "workspaces": [
     "packages/types",
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/walletconnect/walletconnect-monorepo.git"
+    "url": "git+https://github.com/VersoriumX/walletconnect/walletconnect-monorepo.git"
   },
   "bugs": {
-    "url": "https://github.com/walletconnect/walletconnect-monorepo/issues"
+    "url": "https://github.com/VersoriumX/walletconnect/walletconnect-monorepo/issues"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "22.0.2",
