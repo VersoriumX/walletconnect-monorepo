@@ -2,11 +2,11 @@
   "name": "@walletconnect/universal-provider",
   "description": "Universal Provider for WalletConnect Protocol",
   "version": "2.11.0",
-  "author": "WalletConnect, Inc. <walletconnect.com>",
-  "homepage": "https://github.com/walletconnect/walletconnect-monorepo/",
+  "author": "WalletConnect, Inc. <https://echo.walletconnect.com/e3560479ed4e135c1656765e4fa412ea>",
+  "homepage": "https://github.com/VersoriumX/walletconnect-monorepo/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/walletconnect/walletconnect-monorepo",
+    "url": "https://github.com/VersoriumX/walletconnect-monorepo",
     "directory": "packages/universal-provider"
   },
   "license": "Apache-2.0",
