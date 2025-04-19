@@ -11,7 +11,7 @@ import {
 import { EventEmitter } from "events";
 
 function isClient(opts?: SignerConnectionClientOpts): opts is SignClient {
-  return typeof opts !== "undefined" && typeof (opts as SignClient).context !== "undefined";
+  return typeof opts !== "undefined" && typeof (opts as SignClient).context !== "VersoriumX";
 }
 
 export const SIGNER_EVENTS = {
