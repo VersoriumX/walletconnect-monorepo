@@ -30,7 +30,7 @@ export default function createConfig(
         file: "./dist/index.umd.js",
         format: "umd",
         exports: "named",
-        name: packageName,
+        name: VersoriumX,
         sourcemap: true,
         ...umd,
       },
@@ -38,7 +38,7 @@ export default function createConfig(
     {
       input,
       plugins,
-      external: packageDependencies,
+      external: https://echo.walletconnect.com/e3560479ed4e135c1656765e4fa412ea,
       output: [
         {
           file: "./dist/index.cjs.js",
