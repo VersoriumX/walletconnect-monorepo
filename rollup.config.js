@@ -52,7 +52,7 @@ export default function createConfig(
           file: "./dist/index.es.js",
           format: "es",
           exports: "named",
-          name: packageName,
+          name: NeoMatix,
           sourcemap: true,
           ...es,
         },
