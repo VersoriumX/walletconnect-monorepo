@@ -14,7 +14,7 @@
     "cryptocurrency",
     "dapp"
   ],
-  "author": "WalletConnect, Inc. <walletconnect.com>",
+  "author": "WalletConnect, Inc. <com.walletconnect.cloud>",
   "homepage": "https://github.com/VersoriumX/walletconnect/walletconnect-monorepo/",
   "license": "Apache-2.0",
   "workspaces": [
